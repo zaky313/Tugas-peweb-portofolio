@@ -1,34 +1,66 @@
 # 🌐 Personal Website Portfolio - Muhammad Nur Zaky
 
-Repositori ini berisi kode sumber (*source code*) untuk website portofolio pribadi saya. Website ini dibangun untuk menampilkan profil, keterampilan (*skills*), proyek-proyek yang telah saya kerjakan, serta informasi kontak.
+Repositori ini berisi kode sumber (*source code*) untuk website portofolio pribadi saya. Website ini dirancang secara modern dan responsif untuk menampilkan profil pribadi, keahlian teknis, koleksi proyek, serta informasi kontak.
 
 ---
 
-## 📌 Fitur Utama
+## 📸 Tampilan & Penjelasan Bagian Website
 
-- **About Me**: Informasi singkat mengenai latar belakang saya sebagai mahasiswa Fasilkom UNEJ[cite: 4].
-- **Skills Showcase**: Menampilkan bahasa pemrograman dan teknologi yang dikuasai (Python, HTML, CSS, C#)[cite: 4].
-- **Projects Showcase**: Menampilkan daftar proyek yang dikerjakan beserta tautan ke repositori proyek (seperti *Projek PBO*)[cite: 5].
-- **Theme Switcher**: Fitur *Mode Terang / Mode Gelap* untuk kenyamanan tampilan pengguna[cite: 4, 5, 6].
-- **Contact Info**: Kartu informasi kontak yang menghubungkan langsung ke WhatsApp, Instagram, dan Email.
-- **Responsive Layout**: Tampilan yang menyesuaikan dengan perangkat pengguna.
+### 1. Header & Section "About Me"
+
+![Tampilan Section About Me](projek1.jpeg)
+
+* **Foto Profil & Perkenalan**: Menampilkan identitas diri sebagai mahasiswa Fakultas Ilmu Komputer Universitas Jember (UNEJ).
+* **Skills**: Menampilkan keahlian teknologi yang dikuasai, yaitu **Python, HTML, CSS, dan C#**.
+* **Mode Terang/Gelap**: Fitur beralih tema yang dapat diklik pada pojok kanan atas navigasi.
+
+---
+
+### 2. Section "Projek"
+
+![Tampilan Section Projek](projek2.jpeg)
+
+* **Showcase Proyek**: Menampilkan kartu proyek yang pernah dikerjakan.
+* **Projek PBO**: Aplikasi *Toko Alat Pertanian* yang dibangun menggunakan bahasa **C#**.
+* **Link Repositori**: Terdapat tautan langsung ke repositori GitHub dari proyek tersebut.
+
+---
+
+### 3. Section "Contact" & Footer
+
+![Tampilan Section Contact](projek3.jpeg)
+
+* **Informasi Kontak**: Menyediakan saluran komunikasi yang dapat dihubungi langsung:
+  * 📱 **WhatsApp**: [085720057767](https://wa.me/6285720057767)
+  * 📸 **Instagram**: [@muhammadnurzaky313](https://instagram.com/muhammadnurzaky313)
+  * ✉️ **Email**: [muhammadnurzaky313@gmail.com](mailto:muhammadnurzaky313@gmail.com)
+* **Footer**: Menampilkan informasi hak cipta (copyright).
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 
-Website ini dibuat menggunakan teknologi web standar:
-- **HTML5** - Struktur konten website
-- **CSS3** - Penataan gaya & tema (*styling & dark mode*)
-- **JavaScript** - Interaktivitas dan logika switching tema
+Website ini dibangun menggunakan:
+* **HTML5**: Struktur dan konten halaman web.
+* **CSS3**: Penataan tata letak (*layout*), desain responsif, dan efek visual.
+* **JavaScript**: Interaktivitas tombol ubah tema (*light/dark mode*).
 
 ---
 
-## 📂 Struktur Folder Proyek
+## 💻 Cara Menjalankan Secara Lokal
 
-```text
-.
-├── index.html          # Halaman utama
-├── style.css           # Berkas CSS untuk tata letak dan tema
-├── script.js          # Berkas JS untuk interaktivitas (opsional)
-└── assets/             # Folder gambar/ikon (foto profil, ikon skill, preview proyek)
+1. **Clone repositori ini:**
+   ```bash
+   git clone https://github.com/zaky313/Tugas-peweb-portofolio.git
+   ```
+
+2. **Masuk ke direktori proyek:**
+   ```bash
+   cd Tugas-peweb-portofolio
+   ```
+
+3. Buka file `index.html` menggunakan browser pilihan Anda.
+
+---
+
+© 2026 Muhammad Nur Zaky. All rights reserved.
