@@ -8,7 +8,7 @@ Repositori ini berisi kode sumber (*source code*) untuk website portofolio priba
 
 ### 1. Header & Section "About Me"
 
-![Tampilan Section About Me](/aset/projek1.jpeg)
+![Tampilan Section About Me](/aset/projek4.jpeg)
 
 * **Foto Profil & Perkenalan**: Menampilkan identitas diri sebagai mahasiswa Fakultas Ilmu Komputer Universitas Jember (UNEJ).
 * **Skills**: Menampilkan keahlian teknologi yang dikuasai, yaitu **Python, HTML, CSS, dan C#**.
