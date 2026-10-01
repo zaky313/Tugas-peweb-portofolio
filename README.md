@@ -8,7 +8,7 @@ Repositori ini berisi kode sumber (*source code*) untuk website portofolio priba
 
 ### 1. Header & Section "About Me"
 
-![Tampilan Section About Me](aset/projek1.jpeg)
+![Tampilan Section About Me](/aset/projek1.jpeg)
 
 * **Foto Profil & Perkenalan**: Menampilkan identitas diri sebagai mahasiswa Fakultas Ilmu Komputer Universitas Jember (UNEJ).
 * **Skills**: Menampilkan keahlian teknologi yang dikuasai, yaitu **Python, HTML, CSS, dan C#**.
@@ -18,7 +18,7 @@ Repositori ini berisi kode sumber (*source code*) untuk website portofolio priba
 
 ### 2. Section "Projek"
 
-![Tampilan Section Projek](aset/projek2.jpeg)
+![Tampilan Section Projek](/aset/projek2.jpeg)
 
 * **Showcase Proyek**: Menampilkan kartu proyek yang pernah dikerjakan.
 * **Projek PBO**: Aplikasi *Toko Alat Pertanian* yang dibangun menggunakan bahasa **C#**.
@@ -28,7 +28,7 @@ Repositori ini berisi kode sumber (*source code*) untuk website portofolio priba
 
 ### 3. Section "Contact" & Footer
 
-![Tampilan Section Contact](aset/projek3.jpeg)
+![Tampilan Section Contact](/aset/projek3.jpeg)
 
 * **Informasi Kontak**: Menyediakan saluran komunikasi yang dapat dihubungi langsung:
   * 📱 **WhatsApp**: [085720057767](https://wa.me/6285720057767)
